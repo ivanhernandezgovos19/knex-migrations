@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "driver": "awsredshift",
+        "user": "poc",
+        "password": "CDOR-poc-2023",
+        "host": "cdor-poc.427656514443.us-west-2.redshift-serverless.amazonaws.com",
+        "database": "cdor-poc",
+	"schema": "public",
+        "port": "5439"
+    }
+}

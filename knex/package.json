@@ -1,0 +1,13 @@
+{
+  "name": "knex-poc",
+  "version": "1.0.0",
+  "dependencies": {
+    "knex": "3.0.1",
+    "pg": "8.11.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.18.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
