@@ -43,7 +43,7 @@ Before you begin, make sure you have the following installed:
    npm install knex pg
    ```
 
-4. **Initialize Knex.js/db-migrate**
+4. **Initialize Knex.js**
 
     ```sh
    npx knex init
@@ -103,10 +103,7 @@ Before you begin, make sure you have the following installed:
     ```sh
     npx knex migrate:latest
     ```
-    For `db-migrate` library, run:
-    ```sh
-    db-migrate up
-    ```
+
 
 8. **Create a Migration for Data Population**
 
